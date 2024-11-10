@@ -1,0 +1,52 @@
+# Script by Philip Kleinberg
+
+[int]$user_input = Read-Host
+
+#Registry persistence
+
+#Reverse Shell
+
+#Get Users & Groups
+
+#Modify firewall rules
+
+#Gather sensitive files
+
+$options = "Select one from the following options:
+1: Registry persistence
+2: Reverse Shell
+3: Get users & groups
+4: Install Application
+5: Modify firewall rules
+6: Gather sensitive files
+7: Exit"
+
+function Persistence {
+param ($test_param) }
+
+function R_Shell {
+param ()
+}
+
+function Get_users_groups {
+param ()
+}
+
+function Install_application {
+param() }
+
+function mod_fw {
+param ()
+}
+
+function gather_sen_files {
+param ()
+}
+
+while ($user_input -ne 7){
+
+
+
+
+
+}
